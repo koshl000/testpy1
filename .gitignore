@@ -4,4 +4,5 @@ Scripts/
 datasets/
 nltk_data/
 *.cfg
+*.cfg1
 share/
